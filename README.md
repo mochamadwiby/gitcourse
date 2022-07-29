@@ -9,3 +9,4 @@ check routes url team di:
 /team5 (not ready)
 /team6
 /team7
+/team8
